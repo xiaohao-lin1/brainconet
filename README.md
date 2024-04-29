@@ -1,2 +1,2 @@
-# brainconet
-BrainCoNet
+# BrainCoNet
+Code will be released soon.
